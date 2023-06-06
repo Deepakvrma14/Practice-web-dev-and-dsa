@@ -1,0 +1,2 @@
+
+    head->prev = head->next;
